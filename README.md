@@ -1,2 +1,0 @@
-# sbg-unblocker
-Unblocked
